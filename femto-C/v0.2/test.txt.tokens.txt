@@ -1,0 +1,1890 @@
+Filename: test.txt
+Token Count: 471
+==============================
+Token 0:
+    Line: 3
+    Type: 44
+    Value: =
+Token 1:
+    Line: 3
+    Type: 45
+    Value: #
+Token 2:
+    Line: 5
+    Type: 45
+    Value: #
+Token 3:
+    Line: 5
+    Type: 8
+    Value: include
+Token 4:
+    Line: 5
+    Type: 29
+    Value: <
+Token 5:
+    Line: 5
+    Type: 8
+    Value: std
+Token 6:
+    Line: 5
+    Type: 31
+    Value: >
+Token 7:
+    Line: 5
+    Type: 46
+    Value: ;
+Token 8:
+    Line: 6
+    Type: 45
+    Value: #
+Token 9:
+    Line: 6
+    Type: 8
+    Value: include
+Token 10:
+    Line: 6
+    Type: 6
+    Value: my_lib
+Token 11:
+    Line: 6
+    Type: 46
+    Value: ;
+Token 12:
+    Line: 9
+    Type: 8
+    Value: Coord
+Token 13:
+    Line: 9
+    Type: 51
+    Value: {
+Token 14:
+    Line: 10
+    Type: 9
+    Value: int
+Token 15:
+    Line: 10
+    Type: 8
+    Value: x
+Token 16:
+    Line: 10
+    Type: 46
+    Value: ;
+Token 17:
+    Line: 11
+    Type: 15
+    Value: 32bit
+Token 18:
+    Line: 11
+    Type: 9
+    Value: int
+Token 19:
+    Line: 11
+    Type: 8
+    Value: y
+Token 20:
+    Line: 11
+    Type: 46
+    Value: ;
+Token 21:
+    Line: 12
+    Type: 52
+    Value: }
+Token 22:
+    Line: 15
+    Type: 8
+    Value: LogLevel
+Token 23:
+    Line: 15
+    Type: 51
+    Value: {
+Token 24:
+    Line: 16
+    Type: 8
+    Value: INFO
+Token 25:
+    Line: 16
+    Type: 46
+    Value: ;
+Token 26:
+    Line: 17
+    Type: 8
+    Value: WARNING
+Token 27:
+    Line: 17
+    Type: 46
+    Value: ;
+Token 28:
+    Line: 18
+    Type: 8
+    Value: ERROR
+Token 29:
+    Line: 18
+    Type: 46
+    Value: ;
+Token 30:
+    Line: 19
+    Type: 52
+    Value: }
+Token 31:
+    Line: 22
+    Type: 7
+    Value: void
+Token 32:
+    Line: 22
+    Type: 8
+    Value: _log_message
+Token 33:
+    Line: 22
+    Type: 49
+    Value: (
+Token 34:
+    Line: 22
+    Type: 8
+    Value: LogLevel
+Token 35:
+    Line: 22
+    Type: 8
+    Value: level
+Token 36:
+    Line: 22
+    Type: 47
+    Value: ,
+Token 37:
+    Line: 22
+    Type: 13
+    Value: 8bit
+Token 38:
+    Line: 22
+    Type: 9
+    Value: int
+Token 39:
+    Line: 22
+    Type: 26
+    Value: *
+Token 40:
+    Line: 22
+    Type: 8
+    Value: message
+Token 41:
+    Line: 22
+    Type: 50
+    Value: )
+Token 42:
+    Line: 22
+    Type: 51
+    Value: {
+Token 43:
+    Line: 23
+    Type: 20
+    Value: if
+Token 44:
+    Line: 23
+    Type: 49
+    Value: (
+Token 45:
+    Line: 23
+    Type: 8
+    Value: level
+Token 46:
+    Line: 23
+    Type: 33
+    Value: ==
+Token 47:
+    Line: 23
+    Type: 8
+    Value: LogLevel
+Token 48:
+    Line: 23
+    Type: 48
+    Value: .
+Token 49:
+    Line: 23
+    Type: 8
+    Value: INFO
+Token 50:
+    Line: 23
+    Type: 50
+    Value: )
+Token 51:
+    Line: 23
+    Type: 51
+    Value: {
+Token 52:
+    Line: 24
+    Type: 8
+    Value: std
+Token 53:
+    Line: 24
+    Type: 48
+    Value: .
+Token 54:
+    Line: 24
+    Type: 8
+    Value: print
+Token 55:
+    Line: 24
+    Type: 49
+    Value: (
+Token 56:
+    Line: 24
+    Type: 6
+    Value: info 로그
+
+Token 57:
+    Line: 24
+    Type: 50
+    Value: )
+Token 58:
+    Line: 24
+    Type: 46
+    Value: ;
+Token 59:
+    Line: 25
+    Type: 52
+    Value: }
+Token 60:
+    Line: 25
+    Type: 21
+    Value: else
+Token 61:
+    Line: 25
+    Type: 20
+    Value: if
+Token 62:
+    Line: 25
+    Type: 49
+    Value: (
+Token 63:
+    Line: 25
+    Type: 8
+    Value: level
+Token 64:
+    Line: 25
+    Type: 33
+    Value: ==
+Token 65:
+    Line: 25
+    Type: 8
+    Value: LogLevel
+Token 66:
+    Line: 25
+    Type: 48
+    Value: .
+Token 67:
+    Line: 25
+    Type: 8
+    Value: WARNING
+Token 68:
+    Line: 25
+    Type: 50
+    Value: )
+Token 69:
+    Line: 25
+    Type: 51
+    Value: {
+Token 70:
+    Line: 26
+    Type: 8
+    Value: std
+Token 71:
+    Line: 26
+    Type: 48
+    Value: .
+Token 72:
+    Line: 26
+    Type: 8
+    Value: print
+Token 73:
+    Line: 26
+    Type: 49
+    Value: (
+Token 74:
+    Line: 26
+    Type: 6
+    Value: warning 로그
+
+Token 75:
+    Line: 26
+    Type: 50
+    Value: )
+Token 76:
+    Line: 26
+    Type: 46
+    Value: ;
+Token 77:
+    Line: 27
+    Type: 52
+    Value: }
+Token 78:
+    Line: 27
+    Type: 21
+    Value: else
+Token 79:
+    Line: 27
+    Type: 20
+    Value: if
+Token 80:
+    Line: 27
+    Type: 49
+    Value: (
+Token 81:
+    Line: 27
+    Type: 8
+    Value: level
+Token 82:
+    Line: 27
+    Type: 33
+    Value: ==
+Token 83:
+    Line: 27
+    Type: 8
+    Value: LogLevel
+Token 84:
+    Line: 27
+    Type: 48
+    Value: .
+Token 85:
+    Line: 27
+    Type: 8
+    Value: ERROR
+Token 86:
+    Line: 27
+    Type: 50
+    Value: )
+Token 87:
+    Line: 27
+    Type: 51
+    Value: {
+Token 88:
+    Line: 28
+    Type: 8
+    Value: std
+Token 89:
+    Line: 28
+    Type: 48
+    Value: .
+Token 90:
+    Line: 28
+    Type: 8
+    Value: print
+Token 91:
+    Line: 28
+    Type: 49
+    Value: (
+Token 92:
+    Line: 28
+    Type: 6
+    Value: error 로그
+
+Token 93:
+    Line: 28
+    Type: 50
+    Value: )
+Token 94:
+    Line: 28
+    Type: 46
+    Value: ;
+Token 95:
+    Line: 29
+    Type: 52
+    Value: }
+Token 96:
+    Line: 30
+    Type: 8
+    Value: std
+Token 97:
+    Line: 30
+    Type: 48
+    Value: .
+Token 98:
+    Line: 30
+    Type: 8
+    Value: println
+Token 99:
+    Line: 30
+    Type: 49
+    Value: (
+Token 100:
+    Line: 30
+    Type: 8
+    Value: message
+Token 101:
+    Line: 30
+    Type: 50
+    Value: )
+Token 102:
+    Line: 30
+    Type: 46
+    Value: ;
+Token 103:
+    Line: 31
+    Type: 52
+    Value: }
+Token 104:
+    Line: 34
+    Type: 9
+    Value: int
+Token 105:
+    Line: 34
+    Type: 8
+    Value: add
+Token 106:
+    Line: 34
+    Type: 49
+    Value: (
+Token 107:
+    Line: 34
+    Type: 9
+    Value: int
+Token 108:
+    Line: 34
+    Type: 8
+    Value: a
+Token 109:
+    Line: 34
+    Type: 47
+    Value: ,
+Token 110:
+    Line: 34
+    Type: 9
+    Value: int
+Token 111:
+    Line: 34
+    Type: 8
+    Value: b
+Token 112:
+    Line: 34
+    Type: 50
+    Value: )
+Token 113:
+    Line: 34
+    Type: 51
+    Value: {
+Token 114:
+    Line: 35
+    Type: 23
+    Value: return
+Token 115:
+    Line: 35
+    Type: 8
+    Value: a
+Token 116:
+    Line: 35
+    Type: 24
+    Value: +
+Token 117:
+    Line: 35
+    Type: 8
+    Value: b
+Token 118:
+    Line: 35
+    Type: 46
+    Value: ;
+Token 119:
+    Line: 36
+    Type: 52
+    Value: }
+Token 120:
+    Line: 39
+    Type: 9
+    Value: int
+Token 121:
+    Line: 39
+    Type: 8
+    Value: sum_array
+Token 122:
+    Line: 39
+    Type: 49
+    Value: (
+Token 123:
+    Line: 39
+    Type: 9
+    Value: int
+Token 124:
+    Line: 39
+    Type: 53
+    Value: [
+Token 125:
+    Line: 39
+    Type: 54
+    Value: ]
+Token 126:
+    Line: 39
+    Type: 8
+    Value: arr_ptr
+Token 127:
+    Line: 39
+    Type: 47
+    Value: ,
+Token 128:
+    Line: 39
+    Type: 9
+    Value: int
+Token 129:
+    Line: 39
+    Type: 8
+    Value: size
+Token 130:
+    Line: 39
+    Type: 50
+    Value: )
+Token 131:
+    Line: 39
+    Type: 51
+    Value: {
+Token 132:
+    Line: 40
+    Type: 9
+    Value: int
+Token 133:
+    Line: 40
+    Type: 8
+    Value: total
+Token 134:
+    Line: 40
+    Type: 44
+    Value: =
+Token 135:
+    Line: 40
+    Type: 1
+    Value: 0
+Token 136:
+    Line: 40
+    Type: 46
+    Value: ;
+Token 137:
+    Line: 41
+    Type: 9
+    Value: int
+Token 138:
+    Line: 41
+    Type: 8
+    Value: i
+Token 139:
+    Line: 41
+    Type: 44
+    Value: =
+Token 140:
+    Line: 41
+    Type: 1
+    Value: 0
+Token 141:
+    Line: 41
+    Type: 46
+    Value: ;
+Token 142:
+    Line: 42
+    Type: 22
+    Value: while
+Token 143:
+    Line: 42
+    Type: 49
+    Value: (
+Token 144:
+    Line: 42
+    Type: 8
+    Value: i
+Token 145:
+    Line: 42
+    Type: 29
+    Value: <
+Token 146:
+    Line: 42
+    Type: 8
+    Value: size
+Token 147:
+    Line: 42
+    Type: 50
+    Value: )
+Token 148:
+    Line: 42
+    Type: 51
+    Value: {
+Token 149:
+    Line: 43
+    Type: 8
+    Value: total
+Token 150:
+    Line: 43
+    Type: 44
+    Value: =
+Token 151:
+    Line: 43
+    Type: 8
+    Value: total
+Token 152:
+    Line: 43
+    Type: 24
+    Value: +
+Token 153:
+    Line: 43
+    Type: 8
+    Value: arr_ptr
+Token 154:
+    Line: 43
+    Type: 53
+    Value: [
+Token 155:
+    Line: 43
+    Type: 8
+    Value: i
+Token 156:
+    Line: 43
+    Type: 54
+    Value: ]
+Token 157:
+    Line: 43
+    Type: 46
+    Value: ;
+Token 158:
+    Line: 44
+    Type: 8
+    Value: i
+Token 159:
+    Line: 44
+    Type: 44
+    Value: =
+Token 160:
+    Line: 44
+    Type: 8
+    Value: i
+Token 161:
+    Line: 44
+    Type: 24
+    Value: +
+Token 162:
+    Line: 44
+    Type: 1
+    Value: 1
+Token 163:
+    Line: 44
+    Type: 46
+    Value: ;
+Token 164:
+    Line: 45
+    Type: 52
+    Value: }
+Token 165:
+    Line: 46
+    Type: 23
+    Value: return
+Token 166:
+    Line: 46
+    Type: 8
+    Value: total
+Token 167:
+    Line: 46
+    Type: 46
+    Value: ;
+Token 168:
+    Line: 47
+    Type: 52
+    Value: }
+Token 169:
+    Line: 50
+    Type: 9
+    Value: int
+Token 170:
+    Line: 50
+    Type: 8
+    Value: main
+Token 171:
+    Line: 50
+    Type: 49
+    Value: (
+Token 172:
+    Line: 50
+    Type: 50
+    Value: )
+Token 173:
+    Line: 50
+    Type: 51
+    Value: {
+Token 174:
+    Line: 52
+    Type: 9
+    Value: int
+Token 175:
+    Line: 52
+    Type: 8
+    Value: num1
+Token 176:
+    Line: 52
+    Type: 44
+    Value: =
+Token 177:
+    Line: 52
+    Type: 1
+    Value: 10
+Token 178:
+    Line: 52
+    Type: 46
+    Value: ;
+Token 179:
+    Line: 53
+    Type: 12
+    Value: unsigned
+Token 180:
+    Line: 53
+    Type: 15
+    Value: 32bit
+Token 181:
+    Line: 53
+    Type: 9
+    Value: int
+Token 182:
+    Line: 53
+    Type: 8
+    Value: num2
+Token 183:
+    Line: 53
+    Type: 44
+    Value: =
+Token 184:
+    Line: 53
+    Type: 1
+    Value: 20
+Token 185:
+    Line: 53
+    Type: 46
+    Value: ;
+Token 186:
+    Line: 54
+    Type: 10
+    Value: float
+Token 187:
+    Line: 54
+    Type: 8
+    Value: pi
+Token 188:
+    Line: 54
+    Type: 44
+    Value: =
+Token 189:
+    Line: 54
+    Type: 1
+    Value: 3
+Token 190:
+    Line: 54
+    Type: 48
+    Value: .
+Token 191:
+    Line: 54
+    Type: 1
+    Value: 14
+Token 192:
+    Line: 54
+    Type: 46
+    Value: ;
+Token 193:
+    Line: 55
+    Type: 11
+    Value: bool
+Token 194:
+    Line: 55
+    Type: 8
+    Value: is_active
+Token 195:
+    Line: 55
+    Type: 44
+    Value: =
+Token 196:
+    Line: 55
+    Type: 4
+    Value: true
+Token 197:
+    Line: 55
+    Type: 46
+    Value: ;
+Token 198:
+    Line: 58
+    Type: 10
+    Value: float
+Token 199:
+    Line: 58
+    Type: 8
+    Value: casted_float
+Token 200:
+    Line: 58
+    Type: 44
+    Value: =
+Token 201:
+    Line: 58
+    Type: 49
+    Value: (
+Token 202:
+    Line: 58
+    Type: 10
+    Value: float
+Token 203:
+    Line: 58
+    Type: 50
+    Value: )
+Token 204:
+    Line: 58
+    Type: 8
+    Value: num1
+Token 205:
+    Line: 58
+    Type: 46
+    Value: ;
+Token 206:
+    Line: 59
+    Type: 9
+    Value: int
+Token 207:
+    Line: 59
+    Type: 8
+    Value: casted_int
+Token 208:
+    Line: 59
+    Type: 44
+    Value: =
+Token 209:
+    Line: 59
+    Type: 49
+    Value: (
+Token 210:
+    Line: 59
+    Type: 9
+    Value: int
+Token 211:
+    Line: 59
+    Type: 50
+    Value: )
+Token 212:
+    Line: 59
+    Type: 8
+    Value: pi
+Token 213:
+    Line: 59
+    Type: 46
+    Value: ;
+Token 214:
+    Line: 62
+    Type: 9
+    Value: int
+Token 215:
+    Line: 62
+    Type: 53
+    Value: [
+Token 216:
+    Line: 62
+    Type: 1
+    Value: 5
+Token 217:
+    Line: 62
+    Type: 54
+    Value: ]
+Token 218:
+    Line: 62
+    Type: 8
+    Value: my_array
+Token 219:
+    Line: 62
+    Type: 44
+    Value: =
+Token 220:
+    Line: 62
+    Type: 51
+    Value: {
+Token 221:
+    Line: 62
+    Type: 1
+    Value: 1
+Token 222:
+    Line: 62
+    Type: 47
+    Value: ,
+Token 223:
+    Line: 62
+    Type: 1
+    Value: 2
+Token 224:
+    Line: 62
+    Type: 47
+    Value: ,
+Token 225:
+    Line: 62
+    Type: 1
+    Value: 3
+Token 226:
+    Line: 62
+    Type: 47
+    Value: ,
+Token 227:
+    Line: 62
+    Type: 1
+    Value: 4
+Token 228:
+    Line: 62
+    Type: 47
+    Value: ,
+Token 229:
+    Line: 62
+    Type: 1
+    Value: 5
+Token 230:
+    Line: 62
+    Type: 52
+    Value: }
+Token 231:
+    Line: 62
+    Type: 46
+    Value: ;
+Token 232:
+    Line: 63
+    Type: 9
+    Value: int
+Token 233:
+    Line: 63
+    Type: 53
+    Value: [
+Token 234:
+    Line: 63
+    Type: 1
+    Value: 3
+Token 235:
+    Line: 63
+    Type: 54
+    Value: ]
+Token 236:
+    Line: 63
+    Type: 8
+    Value: another_array
+Token 237:
+    Line: 63
+    Type: 46
+    Value: ;
+Token 238:
+    Line: 64
+    Type: 8
+    Value: another_array
+Token 239:
+    Line: 64
+    Type: 53
+    Value: [
+Token 240:
+    Line: 64
+    Type: 1
+    Value: 0
+Token 241:
+    Line: 64
+    Type: 54
+    Value: ]
+Token 242:
+    Line: 64
+    Type: 44
+    Value: =
+Token 243:
+    Line: 64
+    Type: 1
+    Value: 100
+Token 244:
+    Line: 64
+    Type: 46
+    Value: ;
+Token 245:
+    Line: 65
+    Type: 8
+    Value: another_array
+Token 246:
+    Line: 65
+    Type: 53
+    Value: [
+Token 247:
+    Line: 65
+    Type: 1
+    Value: 1
+Token 248:
+    Line: 65
+    Type: 54
+    Value: ]
+Token 249:
+    Line: 65
+    Type: 44
+    Value: =
+Token 250:
+    Line: 65
+    Type: 1
+    Value: 200
+Token 251:
+    Line: 65
+    Type: 46
+    Value: ;
+Token 252:
+    Line: 66
+    Type: 8
+    Value: another_array
+Token 253:
+    Line: 66
+    Type: 53
+    Value: [
+Token 254:
+    Line: 66
+    Type: 1
+    Value: 2
+Token 255:
+    Line: 66
+    Type: 54
+    Value: ]
+Token 256:
+    Line: 66
+    Type: 44
+    Value: =
+Token 257:
+    Line: 66
+    Type: 1
+    Value: 300
+Token 258:
+    Line: 66
+    Type: 46
+    Value: ;
+Token 259:
+    Line: 69
+    Type: 9
+    Value: int
+Token 260:
+    Line: 69
+    Type: 26
+    Value: *
+Token 261:
+    Line: 69
+    Type: 8
+    Value: dynamic_array
+Token 262:
+    Line: 69
+    Type: 46
+    Value: ;
+Token 263:
+    Line: 70
+    Type: 9
+    Value: int
+Token 264:
+    Line: 70
+    Type: 8
+    Value: array_size
+Token 265:
+    Line: 70
+    Type: 44
+    Value: =
+Token 266:
+    Line: 70
+    Type: 1
+    Value: 4
+Token 267:
+    Line: 70
+    Type: 46
+    Value: ;
+Token 268:
+    Line: 71
+    Type: 8
+    Value: dynamic_array
+Token 269:
+    Line: 71
+    Type: 44
+    Value: =
+Token 270:
+    Line: 71
+    Type: 49
+    Value: (
+Token 271:
+    Line: 71
+    Type: 9
+    Value: int
+Token 272:
+    Line: 71
+    Type: 26
+    Value: *
+Token 273:
+    Line: 71
+    Type: 50
+    Value: )
+Token 274:
+    Line: 71
+    Type: 17
+    Value: malloc
+Token 275:
+    Line: 71
+    Type: 49
+    Value: (
+Token 276:
+    Line: 71
+    Type: 19
+    Value: sizeof
+Token 277:
+    Line: 71
+    Type: 49
+    Value: (
+Token 278:
+    Line: 71
+    Type: 9
+    Value: int
+Token 279:
+    Line: 71
+    Type: 50
+    Value: )
+Token 280:
+    Line: 71
+    Type: 26
+    Value: *
+Token 281:
+    Line: 71
+    Type: 8
+    Value: array_size
+Token 282:
+    Line: 71
+    Type: 50
+    Value: )
+Token 283:
+    Line: 71
+    Type: 46
+    Value: ;
+Token 284:
+    Line: 73
+    Type: 20
+    Value: if
+Token 285:
+    Line: 73
+    Type: 49
+    Value: (
+Token 286:
+    Line: 73
+    Type: 8
+    Value: dynamic_array
+Token 287:
+    Line: 73
+    Type: 34
+    Value: !=
+Token 288:
+    Line: 73
+    Type: 49
+    Value: (
+Token 289:
+    Line: 73
+    Type: 7
+    Value: void
+Token 290:
+    Line: 73
+    Type: 26
+    Value: *
+Token 291:
+    Line: 73
+    Type: 50
+    Value: )
+Token 292:
+    Line: 73
+    Type: 1
+    Value: 0
+Token 293:
+    Line: 73
+    Type: 50
+    Value: )
+Token 294:
+    Line: 73
+    Type: 51
+    Value: {
+Token 295:
+    Line: 74
+    Type: 8
+    Value: dynamic_array
+Token 296:
+    Line: 74
+    Type: 53
+    Value: [
+Token 297:
+    Line: 74
+    Type: 1
+    Value: 0
+Token 298:
+    Line: 74
+    Type: 54
+    Value: ]
+Token 299:
+    Line: 74
+    Type: 44
+    Value: =
+Token 300:
+    Line: 74
+    Type: 1
+    Value: 50
+Token 301:
+    Line: 74
+    Type: 46
+    Value: ;
+Token 302:
+    Line: 75
+    Type: 8
+    Value: dynamic_array
+Token 303:
+    Line: 75
+    Type: 53
+    Value: [
+Token 304:
+    Line: 75
+    Type: 1
+    Value: 1
+Token 305:
+    Line: 75
+    Type: 54
+    Value: ]
+Token 306:
+    Line: 75
+    Type: 44
+    Value: =
+Token 307:
+    Line: 75
+    Type: 1
+    Value: 60
+Token 308:
+    Line: 75
+    Type: 46
+    Value: ;
+Token 309:
+    Line: 76
+    Type: 8
+    Value: dynamic_array
+Token 310:
+    Line: 76
+    Type: 53
+    Value: [
+Token 311:
+    Line: 76
+    Type: 1
+    Value: 2
+Token 312:
+    Line: 76
+    Type: 54
+    Value: ]
+Token 313:
+    Line: 76
+    Type: 44
+    Value: =
+Token 314:
+    Line: 76
+    Type: 1
+    Value: 70
+Token 315:
+    Line: 76
+    Type: 46
+    Value: ;
+Token 316:
+    Line: 77
+    Type: 8
+    Value: dynamic_array
+Token 317:
+    Line: 77
+    Type: 53
+    Value: [
+Token 318:
+    Line: 77
+    Type: 1
+    Value: 3
+Token 319:
+    Line: 77
+    Type: 54
+    Value: ]
+Token 320:
+    Line: 77
+    Type: 44
+    Value: =
+Token 321:
+    Line: 77
+    Type: 1
+    Value: 80
+Token 322:
+    Line: 77
+    Type: 46
+    Value: ;
+Token 323:
+    Line: 80
+    Type: 9
+    Value: int
+Token 324:
+    Line: 80
+    Type: 8
+    Value: dynamic_sum
+Token 325:
+    Line: 80
+    Type: 44
+    Value: =
+Token 326:
+    Line: 80
+    Type: 8
+    Value: sum_array
+Token 327:
+    Line: 80
+    Type: 49
+    Value: (
+Token 328:
+    Line: 80
+    Type: 8
+    Value: dynamic_array
+Token 329:
+    Line: 80
+    Type: 47
+    Value: ,
+Token 330:
+    Line: 80
+    Type: 8
+    Value: array_size
+Token 331:
+    Line: 80
+    Type: 50
+    Value: )
+Token 332:
+    Line: 80
+    Type: 46
+    Value: ;
+Token 333:
+    Line: 83
+    Type: 8
+    Value: dynamic_array
+Token 334:
+    Line: 83
+    Type: 53
+    Value: [
+Token 335:
+    Line: 83
+    Type: 1
+    Value: 0
+Token 336:
+    Line: 83
+    Type: 54
+    Value: ]
+Token 337:
+    Line: 83
+    Type: 44
+    Value: =
+Token 338:
+    Line: 83
+    Type: 8
+    Value: dynamic_array
+Token 339:
+    Line: 83
+    Type: 53
+    Value: [
+Token 340:
+    Line: 83
+    Type: 1
+    Value: 0
+Token 341:
+    Line: 83
+    Type: 54
+    Value: ]
+Token 342:
+    Line: 83
+    Type: 42
+    Value: <<
+Token 343:
+    Line: 83
+    Type: 1
+    Value: 1
+Token 344:
+    Line: 83
+    Type: 46
+    Value: ;
+Token 345:
+    Line: 86
+    Type: 20
+    Value: if
+Token 346:
+    Line: 86
+    Type: 49
+    Value: (
+Token 347:
+    Line: 86
+    Type: 8
+    Value: dynamic_sum
+Token 348:
+    Line: 86
+    Type: 31
+    Value: >
+Token 349:
+    Line: 86
+    Type: 1
+    Value: 200
+Token 350:
+    Line: 86
+    Type: 35
+    Value: &&
+Token 351:
+    Line: 86
+    Type: 8
+    Value: is_active
+Token 352:
+    Line: 86
+    Type: 50
+    Value: )
+Token 353:
+    Line: 86
+    Type: 51
+    Value: {
+Token 354:
+    Line: 87
+    Type: 8
+    Value: _log_message
+Token 355:
+    Line: 87
+    Type: 49
+    Value: (
+Token 356:
+    Line: 87
+    Type: 8
+    Value: LogLevel
+Token 357:
+    Line: 87
+    Type: 48
+    Value: .
+Token 358:
+    Line: 87
+    Type: 8
+    Value: INFO
+Token 359:
+    Line: 87
+    Type: 47
+    Value: ,
+Token 360:
+    Line: 87
+    Type: 6
+    Value: Dynamic array sum is large and active.
+Token 361:
+    Line: 87
+    Type: 50
+    Value: )
+Token 362:
+    Line: 87
+    Type: 46
+    Value: ;
+Token 363:
+    Line: 88
+    Type: 52
+    Value: }
+Token 364:
+    Line: 90
+    Type: 18
+    Value: free
+Token 365:
+    Line: 90
+    Type: 49
+    Value: (
+Token 366:
+    Line: 90
+    Type: 8
+    Value: dynamic_array
+Token 367:
+    Line: 90
+    Type: 50
+    Value: )
+Token 368:
+    Line: 90
+    Type: 46
+    Value: ;
+Token 369:
+    Line: 91
+    Type: 52
+    Value: }
+Token 370:
+    Line: 91
+    Type: 21
+    Value: else
+Token 371:
+    Line: 91
+    Type: 51
+    Value: {
+Token 372:
+    Line: 92
+    Type: 8
+    Value: _log_message
+Token 373:
+    Line: 92
+    Type: 49
+    Value: (
+Token 374:
+    Line: 92
+    Type: 8
+    Value: LogLevel
+Token 375:
+    Line: 92
+    Type: 48
+    Value: .
+Token 376:
+    Line: 92
+    Type: 8
+    Value: ERROR
+Token 377:
+    Line: 92
+    Type: 47
+    Value: ,
+Token 378:
+    Line: 92
+    Type: 6
+    Value: Failed to allocate memory.
+Token 379:
+    Line: 92
+    Type: 50
+    Value: )
+Token 380:
+    Line: 92
+    Type: 46
+    Value: ;
+Token 381:
+    Line: 93
+    Type: 52
+    Value: }
+Token 382:
+    Line: 96
+    Type: 8
+    Value: Coord
+Token 383:
+    Line: 96
+    Type: 8
+    Value: point
+Token 384:
+    Line: 96
+    Type: 46
+    Value: ;
+Token 385:
+    Line: 97
+    Type: 8
+    Value: point
+Token 386:
+    Line: 97
+    Type: 48
+    Value: .
+Token 387:
+    Line: 97
+    Type: 8
+    Value: x
+Token 388:
+    Line: 97
+    Type: 44
+    Value: =
+Token 389:
+    Line: 97
+    Type: 8
+    Value: num1
+Token 390:
+    Line: 97
+    Type: 46
+    Value: ;
+Token 391:
+    Line: 98
+    Type: 8
+    Value: point
+Token 392:
+    Line: 98
+    Type: 48
+    Value: .
+Token 393:
+    Line: 98
+    Type: 8
+    Value: y
+Token 394:
+    Line: 98
+    Type: 44
+    Value: =
+Token 395:
+    Line: 98
+    Type: 8
+    Value: num2
+Token 396:
+    Line: 98
+    Type: 46
+    Value: ;
+Token 397:
+    Line: 101
+    Type: 9
+    Value: int
+Token 398:
+    Line: 101
+    Type: 8
+    Value: sum_func_ptr
+Token 399:
+    Line: 101
+    Type: 49
+    Value: (
+Token 400:
+    Line: 101
+    Type: 9
+    Value: int
+Token 401:
+    Line: 101
+    Type: 53
+    Value: [
+Token 402:
+    Line: 101
+    Type: 54
+    Value: ]
+Token 403:
+    Line: 101
+    Type: 47
+    Value: ,
+Token 404:
+    Line: 101
+    Type: 9
+    Value: int
+Token 405:
+    Line: 101
+    Type: 50
+    Value: )
+Token 406:
+    Line: 101
+    Type: 46
+    Value: ;
+Token 407:
+    Line: 102
+    Type: 8
+    Value: sum_func_ptr
+Token 408:
+    Line: 102
+    Type: 44
+    Value: =
+Token 409:
+    Line: 102
+    Type: 8
+    Value: sum_array
+Token 410:
+    Line: 102
+    Type: 46
+    Value: ;
+Token 411:
+    Line: 104
+    Type: 9
+    Value: int
+Token 412:
+    Line: 104
+    Type: 8
+    Value: static_sum
+Token 413:
+    Line: 104
+    Type: 44
+    Value: =
+Token 414:
+    Line: 104
+    Type: 8
+    Value: sum_func_ptr
+Token 415:
+    Line: 104
+    Type: 49
+    Value: (
+Token 416:
+    Line: 104
+    Type: 8
+    Value: my_array
+Token 417:
+    Line: 104
+    Type: 47
+    Value: ,
+Token 418:
+    Line: 104
+    Type: 1
+    Value: 5
+Token 419:
+    Line: 104
+    Type: 50
+    Value: )
+Token 420:
+    Line: 104
+    Type: 46
+    Value: ;
+Token 421:
+    Line: 107
+    Type: 8
+    Value: LogLevel
+Token 422:
+    Line: 107
+    Type: 8
+    Value: current_level
+Token 423:
+    Line: 107
+    Type: 44
+    Value: =
+Token 424:
+    Line: 107
+    Type: 8
+    Value: LogLevel
+Token 425:
+    Line: 107
+    Type: 48
+    Value: .
+Token 426:
+    Line: 107
+    Type: 8
+    Value: WARNING
+Token 427:
+    Line: 107
+    Type: 46
+    Value: ;
+Token 428:
+    Line: 108
+    Type: 8
+    Value: _log_message
+Token 429:
+    Line: 108
+    Type: 49
+    Value: (
+Token 430:
+    Line: 108
+    Type: 8
+    Value: current_level
+Token 431:
+    Line: 108
+    Type: 47
+    Value: ,
+Token 432:
+    Line: 108
+    Type: 6
+    Value: This is a warning message.
+Token 433:
+    Line: 108
+    Type: 50
+    Value: )
+Token 434:
+    Line: 108
+    Type: 46
+    Value: ;
+Token 435:
+    Line: 111
+    Type: 8
+    Value: num1
+Token 436:
+    Line: 111
+    Type: 44
+    Value: =
+Token 437:
+    Line: 111
+    Type: 8
+    Value: num1
+Token 438:
+    Line: 111
+    Type: 24
+    Value: +
+Token 439:
+    Line: 111
+    Type: 1
+    Value: 1
+Token 440:
+    Line: 111
+    Type: 46
+    Value: ;
+Token 441:
+    Line: 114
+    Type: 45
+    Value: #
+Token 442:
+    Line: 114
+    Type: 8
+    Value: raw_asm
+Token 443:
+    Line: 114
+    Type: 51
+    Value: {
+Token 444:
+    Line: 115
+    Type: 8
+    Value: mov
+Token 445:
+    Line: 115
+    Type: 8
+    Value: rax
+Token 446:
+    Line: 115
+    Type: 47
+    Value: ,
+Token 447:
+    Line: 115
+    Type: 1
+    Value: 1
+Token 448:
+    Line: 115
+    Type: 46
+    Value: ;
+Token 449:
+    Line: 116
+    Type: 8
+    Value: mov
+Token 450:
+    Line: 116
+    Type: 8
+    Value: rdi
+Token 451:
+    Line: 116
+    Type: 47
+    Value: ,
+Token 452:
+    Line: 116
+    Type: 1
+    Value: 1
+Token 453:
+    Line: 116
+    Type: 46
+    Value: ;
+Token 454:
+    Line: 117
+    Type: 8
+    Value: mov
+Token 455:
+    Line: 117
+    Type: 8
+    Value: rsi
+Token 456:
+    Line: 117
+    Type: 47
+    Value: ,
+Token 457:
+    Line: 117
+    Type: 2
+    Value: 0x1
+Token 458:
+    Line: 117
+    Type: 46
+    Value: ;
+Token 459:
+    Line: 118
+    Type: 8
+    Value: mov
+Token 460:
+    Line: 118
+    Type: 8
+    Value: rdx
+Token 461:
+    Line: 118
+    Type: 47
+    Value: ,
+Token 462:
+    Line: 118
+    Type: 1
+    Value: 4
+Token 463:
+    Line: 118
+    Type: 46
+    Value: ;
+Token 464:
+    Line: 119
+    Type: 8
+    Value: syscall
+Token 465:
+    Line: 119
+    Type: 46
+    Value: ;
+Token 466:
+    Line: 120
+    Type: 52
+    Value: }
+Token 467:
+    Line: 122
+    Type: 23
+    Value: return
+Token 468:
+    Line: 122
+    Type: 1
+    Value: 0
+Token 469:
+    Line: 122
+    Type: 46
+    Value: ;
+Token 470:
+    Line: 123
+    Type: 52
+    Value: }
